@@ -15,6 +15,22 @@
 h3{
   font-size: 30px;
 }
+
+#cont1{
+  padding-top: 50px;
+  padding-bottom:50px;
+
+}
+h4{
+  text-align: center;
+}
+.col-lg-4{
+  text-align: center;
+}
+h3{
+  font-size: 30px;
+}
+
 /* line 12, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_extend.scss */
 .speakers_area .single_speaker .speaker_thumb .hover_overlay .social_icon a:hover {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff9600+0,fe531e+26,c022a5+57,1bb8f9+100 */
